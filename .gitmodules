@@ -1,0 +1,3 @@
+[submodule "pao-app"]
+	path = pao-app
+	url = https://github.com/maxburton/pao-app.git
